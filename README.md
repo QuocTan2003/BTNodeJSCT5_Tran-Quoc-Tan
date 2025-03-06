@@ -1,3 +1,2 @@
-# NNPTUD_C5
-Mỗi ngày là 1 nhánh 
+# NNPTUD_C5 
 Tran quoc Tan - 2180603640
